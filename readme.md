@@ -6,8 +6,9 @@ Adhering to the given business and development requirements.
 The fizzbuzz project folder contains:
 
 'src' folder containing the main Python files -
-'fizzbuzz.py' which has the fizzbuzz logic, and 'main.py' for user input handling and output, 
-as well as two files 'tests_main.py' and 'tests_edge_cases.py'
+'fizzbuzz.py' which has the fizzbuzz logic, and 'main.py' for user input handling and output.
+
+As well as two files 'tests_main.py' and 'tests_edge_cases.py'
 which contain valid tests as well as numerous edge cases with invalid input.
 
 To run the program execute these commands:
