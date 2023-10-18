@@ -10,10 +10,10 @@ The fizzbuzz project folder contains:
 as well as two files 'tests_main.py' and 'tests_edge_cases.py'
 which contain valid tests as well as numerous edge cases with invalid input.
 
-To run the program:
+To run the program execute these commands:
 
 Clone the repository -
-git clone [<repository-url>](https://github.com/ewanng/fizzbuzz-PetLab)
+git clone https://github.com/ewanng/fizzbuzz-PetLab
 
 cd fizzbuzz
 
