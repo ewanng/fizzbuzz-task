@@ -3,6 +3,7 @@ Overview:
 Simple FizzBuzz Python program that generates a FizzBuzz sequence based on user-defined input.
 Adhering to the given business and development requirements.
 
+
 The fizzbuzz project folder contains:
 
 'src' folder containing the main Python files -
@@ -10,6 +11,7 @@ The fizzbuzz project folder contains:
 
 As well as two files 'tests_main.py' and 'tests_edge_cases.py'
 which contain valid tests as well as numerous edge cases with invalid input.
+
 
 To run the program execute these commands:
 
@@ -21,6 +23,7 @@ cd fizzbuzz-PetLab
 
 Run the program -
 python src/main.py
+
 
 Unit Tests:
 
