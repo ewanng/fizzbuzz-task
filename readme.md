@@ -15,7 +15,8 @@ To run the program execute these commands:
 Clone the repository -
 git clone https://github.com/ewanng/fizzbuzz-PetLab
 
-cd fizzbuzz
+Enter project directory -
+cd fizzbuzz-PetLab
 
 Run the program -
 python src/main.py
