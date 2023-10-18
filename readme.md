@@ -14,13 +14,13 @@ which contain valid tests as well as numerous edge cases with invalid input.
 ### To run the program execute these commands:
 
 Clone the repository -
-** git clone https://github.com/ewanng/fizzbuzz-PetLab **
+**git clone https://github.com/ewanng/fizzbuzz-PetLab**
 
 Enter project directory -
-** cd fizzbuzz-PetLab **
+**cd fizzbuzz-PetLab**
 
 Run the program -
-** python src/main.py **
+**python src/main.py**
 
 
 ### Unit Tests:
