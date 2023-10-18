@@ -13,7 +13,8 @@ which contain valid tests as well as numerous edge cases with invalid input.
 To run the program:
 
 Clone the repository -
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/ewanng/fizzbuzz-PetLab)
+
 cd fizzbuzz
 
 Run the program -
