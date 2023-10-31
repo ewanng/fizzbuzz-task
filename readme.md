@@ -14,10 +14,10 @@ which contain valid tests as well as numerous edge cases with invalid input.
 ### To run the program execute these commands:
 
 Clone the repository -
-**git clone https://github.com/ewanng/fizzbuzz-PetLab**
+**git clone https://github.com/ewanng/fizzbuzz-task**
 
 Enter project directory -
-**cd fizzbuzz-PetLab**
+**cd fizzbuzz-task**
 
 Run the program -
 **python src/main.py**
